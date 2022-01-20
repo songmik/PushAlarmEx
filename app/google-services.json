@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046992514469",
+    "project_id": "pushalarm-cc728",
+    "storage_bucket": "pushalarm-cc728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046992514469:android:189bdeed7b82c8a51e0c4c",
+        "android_client_info": {
+          "package_name": "com.example.a09_pushalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046992514469-jimk5m1g6v6p6ga0ui3ruc2e6ei0pc2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBN0sBjtJLdB8w_-tWY0LshHwpxKXDchE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046992514469-jimk5m1g6v6p6ga0ui3ruc2e6ei0pc2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
